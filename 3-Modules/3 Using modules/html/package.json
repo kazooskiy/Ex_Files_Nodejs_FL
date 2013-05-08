@@ -1,0 +1,19 @@
+{
+  "name": "html",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "dependiencies": {
+    "node-markdown": "0.1.0"
+  },
+  "author": "Kazuru Takase",
+  "license": "BSD",
+  "dependencies": {
+    "node-markdown": "*"
+  },
+  "devDependencies": {}
+}
